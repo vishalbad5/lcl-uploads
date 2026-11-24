@@ -69,7 +69,6 @@ Fonts used (present in the workspace): Montserrat[wght].ttf, Anton-Regular.ttf, 
   privacyStatus public, categoryId 27, title, tags, thumbnailImageId, text = description, publishAt = its slot.
 - NEVER call vidiq_social_post_publish until Vishal approves that day's drafts in the conversation.
 
-## Daily slots (IST, audience mostly US + India)
-- A: 22:30 IST same day (noon New York)
-- B: 06:30 IST next day (8 PM New York, US prime time)
-- C: 19:30 IST next day (India prime time)
+## Daily slots (IST, Vishal's schedule; audience mostly US + India)
+- Each daily run starts at 18:29 IST. Video 1 -> 19:30 IST same day, video 2 -> 06:30 IST next day, video 3 -> 22:30 IST next day.
+- Steady state is 3 posts a day at 06:30, 19:30 and 22:30 IST.
