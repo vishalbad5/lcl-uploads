@@ -15,11 +15,11 @@
 | 010 | Roy Sullivan, struck by lightning 7 times | 2026-11-24 | h4JwtAGrIN4 |
 | 011 | The Upsweep (unexplained ocean sound) | 2026-11-24 | 0phwCJLRTQs |
 | 012 | Jellyfish UFO (Iraq 2017 / Alaska 2026) | 2026-11-24 | asVBmh5zb6o |
+| 013 | Flannan Isles lighthouse keepers (1900) | 2026-11-24 16:17 | aku9vJDSCok · IG reel DgHxiu9D5LC |
 
 ## Built - awaiting approval
 | Ep | Topic | postId | Planned slot | Platforms |
 |---|---|---|---|---|
-| 013 | Flannan Isles lighthouse keepers (1900) | 4b933b27-5de5-4378-878c-5129c16c2d33 | post now (built in chat 2026-11-24) | YouTube, Instagram |
 
 ## Teased next
 - Ep 014 is promised in Ep 013's outro: the man who survived both atomic bombs (Tsutomu Yamaguchi, Hiroshima then Nagasaki, 1945).
