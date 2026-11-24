@@ -49,7 +49,11 @@ Note: the vidIQ free plan allows 3 YouTube uploads per day (resets 08:00 UTC = 1
 ## Teased next
 - Ep 017 is promised in Ep 016's outro: Centralia, Pennsylvania, the town whose underground mine fire has burned since 1962 ("the town that has burned underground for sixty years").
 
-## Idea bank (unused, from the growth playbook)
-Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin, Bradford 1858 poisoned sweets, Juliane Koepcke fall, Centralia fire (teased for Ep 017), Great Pyramid has no writing inside, room under the Sphinx (theory), Ring a Ring o' Roses myth,
-North Sentinel Island, Voynich manuscript, Flight 19, Ourang Medan legend, Somerton Man (named 2022),
-hearing your name when no one called, the Hum.
+## Idea bank (unused; pick by lane, see README content mix + scroll-stop test)
+Older ideas: Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin, Bradford 1858 poisoned sweets, Juliane Koepcke fall, Centralia fire (teased for Ep 017), Great Pyramid has no writing inside, room under the Sphinx (theory), Ring a Ring o' Roses myth, North Sentinel Island, Voynich manuscript, Flight 19, Ourang Medan legend, Somerton Man (named 2022), hearing your name when no one called, the Hum.
+1 Myths & legends: Krampus (timely in early Dec), Mothman of Point Pleasant, Wendigo, Kraken -> the real giant squid, Bloody Mary origin, Hope Diamond "curse", Banshee.
+2 Horror / creepy true: Lead Masks case (Brazil 1966), Gloria Ramirez "toxic lady" (1994), Island of the Dolls (Mexico), Paris Catacombs, Annabelle doll (claims), Polybius arcade legend (urban legend).
+3 UFOs / space: Phoenix Lights (1997), Rendlesham Forest (1980), Nimitz "Tic Tac" (2004), Tehran 1976 jet encounter, Westall (1966), 'Oumuamua, Hessdalen lights.
+4 Conspiracies: MKUltra (real), Operation Northwoods (real proposal), Area 51 (admitted 2013), Moon-landing hoax claims vs evidence, Denver Airport theories, "Paul is dead", Birds Aren't Real (satire).
+5 Sci-fi but real: tardigrades survived open space, zombie-ant fungus, Boötes Void, rogue planets, Kessler syndrome, Arecibo message (1974), Voyager Golden Record, "mirror life" warning (2024), Lake Vostok.
+6 Unsolved / vanished: UVB-76 "The Buzzer", Max Headroom signal hijack (1987), Oak Island money pit, foreign accent syndrome, Phineas Gage, Mike the headless chicken, Lake Natron "stone" animals.

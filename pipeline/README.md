@@ -18,8 +18,15 @@ Niche: real mysteries, dark history, unexplained phenomena, UFO/UAP, vanishings,
   where that is the truth. Never invent quotes, numbers or dates. Never present a recreation as real footage or a real recording.
 - Each episode gets its OWN visual style that matches the story (ep011: deep-ocean sonar + spectrogram; ep012: military thermal camera HUD).
   Reuse the engine, not the look.
-- Content mix: 60 % proven pillars (dark origins of familiar things, ocean/deep sea, vanished, unbelievable true people, space/signals),
-  30 % rising topics (check vidIQ keyword research mode "rising" and vidIQ outliers for Shorts), 10 % experiments.
+- Content mix (Vishal, 24 Nov 2026: "a mix, not just one niche"): rotate 6 lanes. The 3 videos of a run come from 3 DIFFERENT lanes,
+  and every 2 runs cover all 6. Lanes: (1) Myths & legends (creatures, curses, folklore; told as legend + the real origin),
+  (2) Horror / creepy true cases (unsettling real events, haunted places as "claimed"), (3) UFOs / UAP & space signals,
+  (4) Conspiracies (the claim vs the evidence; documented real ones like MKUltra/Northwoods say so; never present a false one as true),
+  (5) Sci-fi but real (real science that sounds like sci-fi), (6) Unsolved / vanished / dark history.
+  About 1 video in 3 should be a rising/trending topic (vidIQ keyword research "rising" or outliers when credits allow).
+- Scroll-stop test: pick a topic only if its FIRST SECOND can show one strange, specific image that needs no context
+  (a man in a lead mask, animals turned to stone). Prefer lesser-known over over-covered classics (Dyatlov, Mary Celeste, Kola style).
+  Write the hook in "you"/present tense where it fits.
 - No remakes of old episodes. Topics already used are listed in episodes.md — never repeat one.
 
 ## Setup in a fresh session
