@@ -39,9 +39,11 @@ Tip: works in the built-in browser only when the pane is wide (about 750 px or m
 ## Built - awaiting approval
 | Ep | Topic | postId | Planned slot | Platforms | Pinned-comment question |
 |---|---|---|---|---|---|
-| 014 | Tsutomu Yamaguchi, survived both atomic bombs (1945) | 092ae02e-b763-4887-aebe-fb3c642fc37f | 2026-11-24 19:30 IST (overdue: post immediately on approval; draft time set to 22:30 only because a past time is refused) | YouTube + Instagram (Facebook manual) | Fate… or pure luck? 👇 |
-| 015 | Kola Superdeep Borehole + "Well to Hell" hoax | 192e1393-1ac0-4938-9311-c2695393939d | 2026-11-25 06:30 IST | YouTube + Instagram (Facebook manual) | Drill deeper… or leave it sealed? 👇 |
-| 016 | Sodder children disappearance (Christmas Eve 1945) | d4dab566-cec5-42bd-a0f6-ca32593e6d05 | 2026-11-25 22:30 IST | YouTube + Instagram (Facebook manual) | Lost in the fire… or taken? 👇 |
+| 014 | Tsutomu Yamaguchi, survived both atomic bombs (1945) | 092ae02e-b763-4887-aebe-fb3c642fc37f | APPROVED 24 Nov 20:10. IG live: reel DgIMLppFP6U. YouTube blocked by vidIQ free limit (3 YT uploads/day) -> publish after 13:30 IST 25 Nov (reminder set) | YouTube + Instagram (Facebook manual) | Fate… or pure luck? 👇 |
+| 015 | Kola Superdeep Borehole + "Well to Hell" hoax | 192e1393-1ac0-4938-9311-c2695393939d | APPROVED. IG scheduled 25 Nov 06:30. YouTube pending (vidIQ daily limit) -> publish after 13:30 IST 25 Nov, 1 h after Ep 014 | YouTube + Instagram (Facebook manual) | Drill deeper… or leave it sealed? 👇 |
+| 016 | Sodder children disappearance (Christmas Eve 1945) | d4dab566-cec5-42bd-a0f6-ca32593e6d05 | APPROVED. IG scheduled 25 Nov 22:30. YouTube pending (vidIQ daily limit) -> publish after 13:30 IST 25 Nov for 22:30 | YouTube + Instagram (Facebook manual) | Lost in the fire… or taken? 👇 |
+
+Note: the vidIQ free plan allows 3 YouTube uploads per day (resets 08:00 UTC = 13:30 IST). Publishing a scheduled YouTube draft counts as that day's upload, so publish at most 3 YouTube destinations per Pacific day.
 
 ## Teased next
 - Ep 017 is promised in Ep 016's outro: Centralia, Pennsylvania, the town whose underground mine fire has burned since 1962 ("the town that has burned underground for sixty years").
