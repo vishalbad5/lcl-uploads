@@ -70,5 +70,6 @@ Fonts used (present in the workspace): Montserrat[wght].ttf, Anton-Regular.ttf, 
 - NEVER call vidiq_social_post_publish until Vishal approves that day's drafts in the conversation.
 
 ## Daily slots (IST, Vishal's schedule; audience mostly US + India)
-- Each daily run starts at 18:29 IST. Video 1 -> 19:30 IST same day, video 2 -> 06:30 IST next day, video 3 -> 22:30 IST next day.
+- Each daily run starts at 18:29 IST. Video 1 -> 19:30 IST same day, video 2 -> 22:30 IST same day, video 3 -> 06:30 IST next day.
 - Steady state is 3 posts a day at 06:30, 19:30 and 22:30 IST.
+- OVERRIDE for the batch started by hand on 2026-11-24 (Ep 014-016): Ep 014 as soon as approved (19:30 slot), Ep 015 at 22:30 IST on 2026-11-24, Ep 016 at 06:30 IST on 2026-11-25. This replaces any other times given for that batch.
