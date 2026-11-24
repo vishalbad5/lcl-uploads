@@ -23,18 +23,18 @@ Tip: works in the built-in browser only when the pane is wide (about 750 px or m
 |---|---|---|
 | -HVpMasIpJU (The Bloop) | Ice cracking… or something alive down there? 👇 | yes |
 | _TxPMCzFqXE (Ep 001) | Aliens… or something natural we haven't found yet? 👇 | yes |
-| Td2OAdt0D3U (Ep 002) | Have you ever seen the shadow in your room? 👇 | no |
-| KlCkRqI6kwg (Ep 003) | Could it happen again? Yes or no? 👇 | no |
-| 10PElOCCicg (Ep 004) | Mass hysteria… or poison? 👇 | no |
-| CCzjgQh00RM (Ep 005) | Avalanche… or something else? 👇 | no |
-| 39HIChxVVho (Ep 006) | Real cover-up… or Cold War hoax? 👇 | no |
-| oY7_kK6l8l4 (Ep 007) | Panicked escape… or something else? 👇 | no |
-| eOxmylsOFpo (Ep 008) | Swallowed by a sandstorm… or never lost at all? 👇 | no |
-| fvvfbe3lTmw (Ep 009) | Just a legend… or a real tragedy? 👇 | no |
-| h4JwtAGrIN4 (Ep 010) | Unluckiest man alive… or the luckiest? 👇 | no |
-| 0phwCJLRTQs (Ep 011) | Volcano… or something we haven't discovered yet? 👇 | no |
-| asVBmh5zb6o (Ep 012) | Balloons… or something they're not telling us? 👇 | no |
-| aku9vJDSCok (Ep 013) | A wave… or something else? 👇 | no |
+| Td2OAdt0D3U (Ep 002) | Have you ever seen the shadow in your room? 👇 | yes |
+| KlCkRqI6kwg (Ep 003) | Could it happen again? Yes or no? 👇 | yes |
+| 10PElOCCicg (Ep 004) | Mass hysteria… or poison? 👇 | yes |
+| CCzjgQh00RM (Ep 005) | Avalanche… or something else? 👇 | yes |
+| 39HIChxVVho (Ep 006) | Real cover-up… or Cold War hoax? 👇 | yes |
+| oY7_kK6l8l4 (Ep 007) | Panicked escape… or something else? 👇 | yes |
+| eOxmylsOFpo (Ep 008) | Swallowed by a sandstorm… or never lost at all? 👇 | yes |
+| fvvfbe3lTmw (Ep 009) | Just a legend… or a real tragedy? 👇 | yes |
+| h4JwtAGrIN4 (Ep 010) | Unluckiest man alive… or the luckiest? 👇 | yes |
+| 0phwCJLRTQs (Ep 011) | Volcano… or something we haven't discovered yet? 👇 | yes |
+| asVBmh5zb6o (Ep 012) | Balloons… or something they're not telling us? 👇 | yes |
+| aku9vJDSCok (Ep 013) | A wave… or something else? 👇 | yes |
 
 ## Built - awaiting approval
 | Ep | Topic | postId | Planned slot | Platforms |
