@@ -35,6 +35,7 @@ Tip: works in the built-in browser only when the pane is wide (about 750 px or m
 | 0phwCJLRTQs (Ep 011) | Volcano… or something we haven't discovered yet? 👇 | yes |
 | asVBmh5zb6o (Ep 012) | Balloons… or something they're not telling us? 👇 | yes |
 | aku9vJDSCok (Ep 013) | A wave… or something else? 👇 | yes |
+| (Ep 014, uploaded by hand, ID not logged) | Fate… or pure luck? 👇 | yes (pinned by Vishal) |
 
 ## Built - awaiting approval
 | Ep | Topic | postId | Planned slot | Platforms | Pinned-comment question |
