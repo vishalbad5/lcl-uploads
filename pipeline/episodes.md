@@ -17,6 +17,24 @@
 | 012 | Jellyfish UFO (Iraq 2017 / Alaska 2026) | 2026-11-24 | asVBmh5zb6o |
 | 013 | Flannan Isles lighthouse keepers (1900) | 2026-11-24 16:17 | aku9vJDSCok · IG reel DgHxiu9D5LC |
 
+## Pinned question comments (post from the channel + pin on YouTube; mark pinned when done)
+| Video | Question to pin | Pinned |
+|---|---|---|
+| -HVpMasIpJU (The Bloop) | Ice cracking… or something alive down there? 👇 | no |
+| _TxPMCzFqXE (Ep 001) | Aliens… or something natural we haven't found yet? 👇 | no |
+| Td2OAdt0D3U (Ep 002) | Have you ever seen the shadow in your room? 👇 | no |
+| KlCkRqI6kwg (Ep 003) | Could it happen again? Yes or no? 👇 | no |
+| 10PElOCCicg (Ep 004) | Mass hysteria… or poison? 👇 | no |
+| CCzjgQh00RM (Ep 005) | Avalanche… or something else? 👇 | no |
+| 39HIChxVVho (Ep 006) | Real cover-up… or Cold War hoax? 👇 | no |
+| oY7_kK6l8l4 (Ep 007) | Panicked escape… or something else? 👇 | no |
+| eOxmylsOFpo (Ep 008) | Swallowed by a sandstorm… or never lost at all? 👇 | no |
+| fvvfbe3lTmw (Ep 009) | Just a legend… or a real tragedy? 👇 | no |
+| h4JwtAGrIN4 (Ep 010) | Unluckiest man alive… or the luckiest? 👇 | no |
+| 0phwCJLRTQs (Ep 011) | Volcano… or something we haven't discovered yet? 👇 | no |
+| asVBmh5zb6o (Ep 012) | Balloons… or something they're not telling us? 👇 | no |
+| aku9vJDSCok (Ep 013) | A wave… or something else? 👇 | no |
+
 ## Built - awaiting approval
 | Ep | Topic | postId | Planned slot | Platforms |
 |---|---|---|---|---|
