@@ -23,10 +23,16 @@ Niche: real mysteries, dark history, unexplained phenomena, UFO/UAP, vanishings,
   (2) Horror / creepy true cases (unsettling real events, haunted places as "claimed"), (3) UFOs / UAP & space signals,
   (4) Conspiracies (the claim vs the evidence; documented real ones like MKUltra/Northwoods say so; never present a false one as true),
   (5) Sci-fi but real (real science that sounds like sci-fi), (6) Unsolved / vanished / dark history.
-  About 1 video in 3 should be a rising/trending topic (vidIQ keyword research "rising" or outliers when credits allow).
 - Scroll-stop test: pick a topic only if its FIRST SECOND can show one strange, specific image that needs no context
   (a man in a lead mask, animals turned to stone). Prefer lesser-known over over-covered classics (Dyatlov, Mary Celeste, Kola style).
   Write the hook in "you"/present tense where it fits.
+- FRESHNESS RULE (Vishal, 24 Nov 2026): EVERY topic, in every lane, must ALSO be either
+  (a) trending right now - in the news, viral or newly released in roughly the last 2 weeks (new footage, declassified files,
+      a new discovery, an anniversary this week, a story going viral on Reddit/X/TikTok), or
+  (b) little-known - a real, verifiable story most viewers have never heard of.
+  Aim for at least 1 of the 3 daily videos to be (a). Find them with free WebSearch ("<lane> news this week", "newly declassified",
+  "scientists baffled", "rare footage", "this day in history <date>"); vidIQ is optional. Fact-check (a) items extra hard -
+  viral claims are often wrong. In the description, say why it is new where true ("New footage released this month").
 - No remakes of old episodes. Topics already used are listed in episodes.md — never repeat one.
 
 ## Setup in a fresh session
