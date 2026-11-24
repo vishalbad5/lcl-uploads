@@ -37,14 +37,16 @@ Tip: works in the built-in browser only when the pane is wide (about 750 px or m
 | aku9vJDSCok (Ep 013) | A wave… or something else? 👇 | yes |
 
 ## Built - awaiting approval
-| Ep | Topic | postId | Planned slot | Platforms |
-|---|---|---|---|---|
+| Ep | Topic | postId | Planned slot | Platforms | Pinned-comment question |
+|---|---|---|---|---|---|
+| 014 | Tsutomu Yamaguchi, survived both atomic bombs (1945) | 092ae02e-b763-4887-aebe-fb3c642fc37f | 2026-11-24 22:30 IST (19:30 had passed when built) | YouTube + Instagram (Facebook manual) | Fate… or pure luck? 👇 |
+| 015 | Kola Superdeep Borehole + "Well to Hell" hoax | 192e1393-1ac0-4938-9311-c2695393939d | 2026-11-25 06:30 IST | YouTube + Instagram (Facebook manual) | Drill deeper… or leave it sealed? 👇 |
+| 016 | Sodder children disappearance (Christmas Eve 1945) | d4dab566-cec5-42bd-a0f6-ca32593e6d05 | 2026-11-25 22:30 IST | YouTube + Instagram (Facebook manual) | Lost in the fire… or taken? 👇 |
 
 ## Teased next
-- Ep 014 is promised in Ep 013's outro: the man who survived both atomic bombs (Tsutomu Yamaguchi, Hiroshima then Nagasaki, 1945).
+- Ep 017 is promised in Ep 016's outro: Centralia, Pennsylvania, the town whose underground mine fire has burned since 1962 ("the town that has burned underground for sixty years").
 
 ## Idea bank (unused, from the growth playbook)
-Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin, Bradford 1858 poisoned sweets, man who survived both atomic bombs,
-Juliane Koepcke fall, Centralia fire, Great Pyramid has no writing inside, room under the Sphinx (theory), Ring a Ring o' Roses myth,
-North Sentinel Island, Voynich manuscript, Flight 19, Ourang Medan legend, Sodder children, Somerton Man (named 2022),
-hearing your name when no one called, Kola Superdeep Borehole, the Hum.
+Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin, Bradford 1858 poisoned sweets, Juliane Koepcke fall, Centralia fire (teased for Ep 017), Great Pyramid has no writing inside, room under the Sphinx (theory), Ring a Ring o' Roses myth,
+North Sentinel Island, Voynich manuscript, Flight 19, Ourang Medan legend, Somerton Man (named 2022),
+hearing your name when no one called, the Hum.
