@@ -16,6 +16,9 @@
 | 011 | The Upsweep (unexplained ocean sound) | 2026-11-24 | 0phwCJLRTQs |
 | 012 | Jellyfish UFO (Iraq 2017 / Alaska 2026) | 2026-11-24 | asVBmh5zb6o |
 
+## Built - awaiting approval
+(none yet: each run lists its drafts here with episode number, topic, postId and planned slot)
+
 ## Teased next
 - Ep 013 is promised in Ep 012's outro: the three Flannan Isles lighthouse keepers who vanished (1900).
 
