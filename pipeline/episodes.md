@@ -17,10 +17,12 @@
 | 012 | Jellyfish UFO (Iraq 2017 / Alaska 2026) | 2026-11-24 | asVBmh5zb6o |
 
 ## Built - awaiting approval
-(none yet: each run lists its drafts here with episode number, topic, postId and planned slot)
+| Ep | Topic | postId | Planned slot | Platforms |
+|---|---|---|---|---|
+| 013 | Flannan Isles lighthouse keepers (1900) | 4b933b27-5de5-4378-878c-5129c16c2d33 | post now (built in chat 2026-11-24) | YouTube, Instagram |
 
 ## Teased next
-- Ep 013 is promised in Ep 012's outro: the three Flannan Isles lighthouse keepers who vanished (1900).
+- Ep 014 is promised in Ep 013's outro: the man who survived both atomic bombs (Tsutomu Yamaguchi, Hiroshima then Nagasaki, 1945).
 
 ## Idea bank (unused, from the growth playbook)
 Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin, Bradford 1858 poisoned sweets, man who survived both atomic bombs,

@@ -41,6 +41,7 @@ Fonts used (present in the workspace): Montserrat[wght].ttf, Anton-Regular.ttf, 
    - Free: Kokoro voice bm_george, lang en-gb, built phrase by phrase (see examples/ep011_voice_kokoro.py): per-phrase speed 0.8-1.1,
      pauses, small pitch moves on reveals, soft synthetic breaths/sighs, whispered ending. Check pronunciations with
      k.tokenizer.phonemize (write years as words, e.g. "nineteen ninety-one"; "dived" not "dove").
+   Captions: after the voice is made, rewrite spoken numbers in voice_meta.json phrase text as digits ("nineteen hundred" -> "1900") BEFORE align_words.py, so captions show digits and word timings stay aligned.
    Either way write voice_raw.wav and voice_meta.json {"total": sec, "phrases":[{"i","text","start","end","flags"}]}.
 3. `python3 ../lcl-uploads/pipeline/align_words.py` -> words.json (caption timing). Also note key word times for cues.
 4. Music + sound design in numpy (see examples/*_music.py): drone with a tension curve, pulses, risers into reveals,
