@@ -18,10 +18,11 @@
 | 013 | Flannan Isles lighthouse keepers (1900) | 2026-11-24 16:17 | aku9vJDSCok · IG reel DgHxiu9D5LC |
 
 ## Pinned question comments (post from the channel + pin on YouTube; mark pinned when done)
+Tip: works in the built-in browser only when the pane is wide (about 750 px or more); use youtube.com/shorts/<id>, play the video muted so the side buttons load, open comments, post, then the comment's Action menu -> Pin -> confirm. Before posting, check the comment is not already there (no duplicates).
 | Video | Question to pin | Pinned |
 |---|---|---|
-| -HVpMasIpJU (The Bloop) | Ice cracking… or something alive down there? 👇 | no |
-| _TxPMCzFqXE (Ep 001) | Aliens… or something natural we haven't found yet? 👇 | no |
+| -HVpMasIpJU (The Bloop) | Ice cracking… or something alive down there? 👇 | yes |
+| _TxPMCzFqXE (Ep 001) | Aliens… or something natural we haven't found yet? 👇 | yes |
 | Td2OAdt0D3U (Ep 002) | Have you ever seen the shadow in your room? 👇 | no |
 | KlCkRqI6kwg (Ep 003) | Could it happen again? Yes or no? 👇 | no |
 | 10PElOCCicg (Ep 004) | Mass hysteria… or poison? 👇 | no |
