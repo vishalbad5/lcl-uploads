@@ -44,19 +44,21 @@ Tip: works in the built-in browser only when the pane is wide (about 750 px or m
 | 015 | Kola Superdeep Borehole + "Well to Hell" hoax | 192e1393-1ac0-4938-9311-c2695393939d | APPROVED. IG LIVE: reel DgJTS77D_yX. YouTube destination STILL A DRAFT at 18:30 IST 25 Nov (not published after 13:30) - needs Vishal's go-ahead in the current run | YouTube + Instagram (Facebook manual) | Drill deeper… or leave it sealed? 👇 |
 | 016 | Sodder children disappearance (Christmas Eve 1945) | d4dab566-cec5-42bd-a0f6-ca32593e6d05 | APPROVED. IG LIVE: reel DgKCJvgIG9D (went out early; the 22:30 IG copy was cancelled). YouTube destination STILL A DRAFT at 18:30 IST 25 Nov - planned 22:30 IST 25 Nov, needs Vishal's go-ahead | YouTube + Instagram (Facebook manual) | Lost in the fire… or taken? 👇 |
 | 017 | Centralia, the town burning underground since 1962 | 86b45e64-abde-4b3d-9837-4fe8377bb544 | 25 Nov 19:30 IST (built 25 Nov run) | YouTube + Instagram (Facebook manual) | Would you stay above it... or leave forever? 👇 |
+| 018 | Pentagon's 8th UFO/UAP file release (20 Nov 2026): 1956 Japan half-sphere, 2020 IR video, 2023 Mach 2.5 radar, 2009 vault | 2350aa87-ae19-463b-a0b0-8f2d7226ab21 | 26 Nov 06:30 IST | YouTube + Instagram (Facebook manual) | Simple mistakes… or something we still can't identify? 👇 |
+| 019 | Krampus, the Christmas demon of the Alps (Krampusnacht 5 Dec) | 91aae358-341e-4ebd-b170-7b4807130aeb | 26 Nov 19:30 IST | YouTube + Instagram (Facebook manual) | Just a costume… or something older that never left? 👇 |
 
 Note: the vidIQ free plan allows 3 YouTube uploads per day (resets 08:00 UTC = 13:30 IST). Publishing a scheduled YouTube draft counts as that day's upload, so publish at most 3 YouTube destinations per Pacific day.
 
 ## Teased next
-- Ep 017 is promised in Ep 016's outro: Centralia, Pennsylvania, the town whose underground mine fire has burned since 1962 ("the town that has burned underground for sixty years").
+- Ep 020 is promised in Ep 019's outro: the Lead Masks case (Niterói, Brazil, 1966): two men found dead on a hill wearing lead masks ("Next: two men found dead, wearing lead masks"). Fact-check names, date and the note before scripting.
 
 ## Reserved
 - Gef the Talking Mongoose: Vishal's own pick (25 Nov chat) to build on his PC in Blender with realistic characters and separate character voices. Daily runs must NOT use it; give it the next free episode number when he builds it.
 
 ## Idea bank (unused; pick by lane, see README content mix + scroll-stop test)
 Older ideas: Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin, Bradford 1858 poisoned sweets, Juliane Koepcke fall, Centralia fire (teased for Ep 017), Great Pyramid has no writing inside, room under the Sphinx (theory), Ring a Ring o' Roses myth, North Sentinel Island, Voynich manuscript, Flight 19, Ourang Medan legend, Somerton Man (named 2022), hearing your name when no one called, the Hum.
-1 Myths & legends: Krampus (timely in early Dec), Mothman of Point Pleasant, Wendigo, Kraken -> the real giant squid, Bloody Mary origin, Hope Diamond "curse", Banshee.
-2 Horror / creepy true: Lead Masks case (Brazil 1966), Gloria Ramirez "toxic lady" (1994), Island of the Dolls (Mexico), Paris Catacombs, Annabelle doll (claims), Polybius arcade legend (urban legend).
+1 Myths & legends: Mothman of Point Pleasant, Wendigo, Kraken -> the real giant squid, Bloody Mary origin, Hope Diamond "curse", Banshee.
+2 Horror / creepy true: Gloria Ramirez "toxic lady" (1994), Island of the Dolls (Mexico), Paris Catacombs, Annabelle doll (claims), Polybius arcade legend (urban legend).
 3 UFOs / space: Phoenix Lights (1997), Rendlesham Forest (1980), Nimitz "Tic Tac" (2004), Tehran 1976 jet encounter, Westall (1966), 'Oumuamua, Hessdalen lights.
 4 Conspiracies: MKUltra (real), Operation Northwoods (real proposal), Area 51 (admitted 2013), Moon-landing hoax claims vs evidence, Denver Airport theories, "Paul is dead", Birds Aren't Real (satire).
 5 Sci-fi but real: tardigrades survived open space, zombie-ant fungus, Boötes Void, rogue planets, Kessler syndrome, Arecibo message (1974), Voyager Golden Record, "mirror life" warning (2024), Lake Vostok.
