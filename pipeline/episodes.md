@@ -38,8 +38,8 @@ Tip: works in the built-in browser only when the pane is wide (about 750 px or m
 | aku9vJDSCok (Ep 013) | A wave… or something else? 👇 | yes |
 | McDNduRbR6Q (Ep 016) | Lost in the fire… or taken? 👇 | yes |
 | tB4VHSPnsBY (Ep 017 Gef) | A clever girl… or something in the walls? 🕯️ What do you think Gef really was? 👇 | yes |
-| Syy_z2mx4Ak (Ep 018 Centralia, live 25 Nov 22:30) | Would you stay above it... or leave forever? 👇 | no |
-| YNwfgNXMZdY (Ep 019 UFO files, live 26 Nov 06:30) | Simple mistakes… or something we still can't identify? 👇 | no |
+| Syy_z2mx4Ak (Ep 018 Centralia, live 25 Nov 22:30) | Would you stay above it... or leave forever? 👇 | yes |
+| YNwfgNXMZdY (Ep 019 UFO files, live 26 Nov 06:30) | Simple mistakes… or something we still can't identify? 👇 | yes |
 | UnHSZeYBp9k (Ep 020 Krampus, live 26 Nov 19:30) | Just a costume… or something older that never left? 👇 | no |
 | (Ep 014, uploaded by hand, ID not logged) | Fate… or pure luck? 👇 | yes (pinned by Vishal) |
 
