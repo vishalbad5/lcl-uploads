@@ -9,9 +9,15 @@ Niche: real mysteries, dark history, unexplained phenomena, UFO/UAP, vanishings,
   The first frame must already show the strange thing (it is the feed thumbnail).
 - Visual change every 1.5-2 s; camera always moving; word-by-word captions (Montserrat Black, key words amber, danger words red).
 - Open loop around the 60 % mark; end with an either-or question that becomes the pinned comment.
-- Candle outro, about 3-5 s: teaser "NEXT: <next episode topic> / EPISODE <n+1>", then
-  "REAL STORIES. UNANSWERED QUESTIONS." and "FOLLOW FOR THE NEXT STORY."
+- Candle outro, about 3-5 s (follow hook, Vishal 26 Nov 2026 - subscribers are the weak spot): teaser
+  "CASE FILE <n+1>: <next topic, one strange detail>" + "DROPS TONIGHT" (or "DROPS TOMORROW" for the 22:30 video), then
+  "FOLLOW SO YOU DON'T MISS IT." The narrator says the last line too. Keep it under 4 s.
 - Title: hook first, under 60-70 chars, then "| Ep 0NN #tag #shorts". Never start with "EPISODE".
+  The title MUST carry one impossible, specific detail - a number, size or object you can picture
+  ("Only 9 Inches Wide", "Talked From Inside the Walls", "Struck by Lightning 7 Times"). The 26 Nov data: titles like that got
+  1.2K+ views; plain story titles (Sodder, Flannan Isles, Hamelin) got under 200.
+- Follow-ups to hits: when an episode passes 1,000 views, add 2 NEW related topics to the idea bank in episodes.md
+  (same feel, different story - e.g. after Kola: Challenger Deep, Lake Vostok). Never a remake of the same story.
 - Description: first line is a keyword sentence; note "Visuals recreated for this video." (and "Sound recreated" if a sound is synthesized);
   the question; "🕯️ Follow LAST CANDLE LEFT for real stories and unanswered questions."; 5-6 hashtags incl. #shorts. Tags: 10-15 relevant.
 - Facts: check every claim against sources found with web search before scripting. Say "claimed", "some believe", "unverified"
@@ -81,6 +87,16 @@ Fonts used (present in the workspace): Montserrat[wght].ttf, Anton-Regular.ttf, 
 - Draft each video with vidiq_social_post_draft_create: platform YOUTUBE, platformAccountId UCWnVL9vYPRuEMpv_88284qQ,
   privacyStatus public, categoryId 27, title, tags, thumbnailImageId, text = description, publishAt = its slot.
 - NEVER call vidiq_social_post_publish until Vishal approves that day's drafts in the conversation.
+
+## After each video goes live (first hour, via the built-in browser on YouTube Studio)
+1. Studio > Content: check the custom thumbnail took (mqdefault.jpg?v=...) and Audience = "No, it's not made for kids".
+   A blank audience setting can hold a Short back from the feed - always set it.
+2. Pin the either-or question comment (see the pinned-comment table in episodes.md).
+3. Add the video to its series playlist: Myths & Monsters (lane 1), Creepy True Cases (lane 2),
+   UFO & Conspiracy Files (lanes 3-4), Real but Impossible (lane 5), Vanished & Dark History (lane 6).
+4. Reply to every viewer comment from the last 24 h on all videos, as LAST CANDLE LEFT: short, warm, curious, no links,
+   often ending with a question back ("Right? The hole is still there, welded shut. Would you go down it?"). Never argue,
+   never reply to spam or abuse (leave those for Vishal). Heart good comments.
 
 ## Daily slots (IST, Vishal's schedule; audience mostly US + India)
 - Each daily run starts at 18:29 IST. Video 1 -> 19:30 IST same day, video 2 -> 22:30 IST same day, video 3 -> 06:30 IST next day.

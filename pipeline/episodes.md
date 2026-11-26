@@ -67,6 +67,7 @@ Older ideas: Bloop follow-ups (Julia, Slow Down), Hansel and Gretel dark origin,
 3 UFOs / space: Phoenix Lights (1997), Rendlesham Forest (1980), Nimitz "Tic Tac" (2004), Tehran 1976 jet encounter, Westall (1966), 'Oumuamua, Hessdalen lights.
 4 Conspiracies: MKUltra (real), Operation Northwoods (real proposal), Area 51 (admitted 2013), Moon-landing hoax claims vs evidence, Denver Airport theories, "Paul is dead", Birds Aren't Real (satire).
 5 Sci-fi but real: tardigrades survived open space, zombie-ant fungus, Boötes Void, rogue planets, Kessler syndrome, Arecibo message (1974), Voyager Golden Record, "mirror life" warning (2024), Lake Vostok.
+Follow-ups to hits (26 Nov): after Kola (Ep 015) -> Challenger Deep, Lake Vostok's sealed lake, Darvaza "Door to Hell" crater; after Gef (Ep 017) -> Clever Hans the counting horse, Kanzi the bonobo who talks with symbols, the Enfield poltergeist (claims); after Jellyfish UFO (Ep 012) -> Nimitz Tic Tac, 2024 New Jersey drone wave; after Upsweep (Ep 011) -> Julia, Slow Down (NOAA sounds).
 6 Unsolved / vanished: UVB-76 "The Buzzer", Max Headroom signal hijack (1987), Oak Island money pit, foreign accent syndrome, Phineas Gage, Mike the headless chicken, Lake Natron "stone" animals.
 
 ## Thumbnail note (26 Nov)
