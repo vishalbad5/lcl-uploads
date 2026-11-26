@@ -90,8 +90,8 @@ Fonts used (present in the workspace): Montserrat[wght].ttf, Anton-Regular.ttf, 
 
 ## Lessons from the data (26 Nov 2026)
 - Ep 013 (Flannan Isles): 9 views, ALL from the channel page, zero from the Shorts feed. It went out under an hour after Ep 011
-  and Ep 012. Never post two Shorts less than 3 hours apart; the regular slots already do this, and the overdue-catch-up rule
-  must keep at least a 3 h gap too, not 1 h.
+  and Ep 012. Likely cause: Shorts posted too close together. The regular slots are 3+ h apart; the overdue catch-up rule
+  (1 h apart) is Vishal's choice and stays until he changes it - Nyx has suggested 3 h to him.
 - Ep 018 (Centralia): the feed DID show it, but 74 % swiped away (hits like Ep 015 Kola: 64 % STAYED). The opening frame and
   first line lost people. The first frame must be the single strangest image, readable in 0.5 s; no slow scenic open.
 - Audience ("not made for kids") was correctly set on every video, so it was not the cause.
