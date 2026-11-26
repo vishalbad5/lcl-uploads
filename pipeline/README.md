@@ -88,6 +88,14 @@ Fonts used (present in the workspace): Montserrat[wght].ttf, Anton-Regular.ttf, 
   privacyStatus public, categoryId 27, title, tags, thumbnailImageId, text = description, publishAt = its slot.
 - NEVER call vidiq_social_post_publish until Vishal approves that day's drafts in the conversation.
 
+## Lessons from the data (26 Nov 2026)
+- Ep 013 (Flannan Isles): 9 views, ALL from the channel page, zero from the Shorts feed. It went out under an hour after Ep 011
+  and Ep 012. Never post two Shorts less than 3 hours apart; the regular slots already do this, and the overdue-catch-up rule
+  must keep at least a 3 h gap too, not 1 h.
+- Ep 018 (Centralia): the feed DID show it, but 74 % swiped away (hits like Ep 015 Kola: 64 % STAYED). The opening frame and
+  first line lost people. The first frame must be the single strangest image, readable in 0.5 s; no slow scenic open.
+- Audience ("not made for kids") was correctly set on every video, so it was not the cause.
+
 ## After each video goes live (first hour, via the built-in browser on YouTube Studio)
 1. Studio > Content: check the custom thumbnail took (mqdefault.jpg?v=...) and Audience = "No, it's not made for kids".
    A blank audience setting can hold a Short back from the feed - always set it.
