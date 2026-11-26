@@ -74,3 +74,13 @@ Follow-ups to hits (26 Nov): after Kola (Ep 015) -> Challenger Deep, Lake Vostok
 - vidIQ did NOT apply YouTube thumbnails for Ep 018-020 (Studio showed auto frames mq2.jpg). Fixed by hand in YouTube Studio (also had to answer "Not made for kids", which vidIQ uploads leave blank). Check thumbnails after every vidIQ upload: a custom one shows as mqdefault.jpg?v=... in Studio.
 - Ep 018/019 Facebook reels have the custom thumbnails. Instagram covers for Gef (Ep 017) and Centralia (Ep 018) are plain frames; Instagram web cannot change a posted reel's cover (app only).
 - Temporary thumbnail copies for Ep 018-020 are on branch upload-test (commit 03ef621).
+
+## Series playlists (created 26 Nov 2026, all public)
+- Real but Impossible: Bloop, 003, 010, 011, 014, 015, 018
+- Creepy True Cases: 002, 004, 017
+- UFO & Conspiracy Files: 001, 006, 012, 019
+- Vanished & Dark History: 005, 007, 008, 013, 016
+- Myths & Monsters: 009, 020
+New episodes go into the matching playlist (README "After each video goes live").
+Channel page (26 Nov): new keyword description, Instagram link, Home tab turned ON with Popular videos + playlists.
+Old descriptions cleaned 26 Nov: Ep 008 rewritten (was run-together text + unrelated hashtags); "EPISODE-00X |" first line removed from Ep 001-003.
